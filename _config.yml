@@ -61,10 +61,10 @@ markdown: kramdown
 exclude: [vendor, scripts, remotedata]
 
 # International Support
-# Eg name: Australia and adjective: Australian
+# Eg name: Iceland and adjective: Icelandic
 country:
-  name: Australia
-  adjective: Australian
+  name: Iceland
+  adjective: Icelandic
 
 # Pages
 collections:
